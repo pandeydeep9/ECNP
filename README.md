@@ -1,4 +1,4 @@
-# ENP
+# ENP Code
 This is the repository for the Code of Evidential Neural Processes <br />
 
 ## This code requires
