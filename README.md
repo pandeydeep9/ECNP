@@ -1,6 +1,9 @@
 # ECNP Code
 This is the repository for the Code of Evidential Conditional Neural Processes <br />
 
+##Appendix
+The appendix and supplimentary works of the paper are provided in appendix.pdf file
+
 ## This code requires
 * Python3
 * Pytorch
