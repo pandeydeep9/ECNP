@@ -1,3 +1,5 @@
+Appendix is provided as appendix.pdf
+
 Dataset structure
 place the datasets (MNIST, CelebA and Cifar10 datasets). The datasets structure for the datasets is as follows
 MNIST
